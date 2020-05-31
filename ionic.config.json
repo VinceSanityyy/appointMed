@@ -1,0 +1,7 @@
+{
+  "name": "appointMed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
